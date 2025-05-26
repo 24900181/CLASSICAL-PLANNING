@@ -1,6 +1,6 @@
 # ExpNo:10 Implementation of Classical Planning Algorithm
-# Name:Nethra .k
-# Register Number:24900181
+# Name: Nethra k
+# Register Number:212224230184
 # AIM:
 To solve Implementation of Classical Planning Algorithm using python.
 
